@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Hoa Dạ Yến Thảo",
+        "desc": "Loài hoa nở rực rỡ, nhiều màu sắc, rất thích hợp trồng vào mùa xuân – hè.",
+        "img": "hoa-da-yen-thao.jpg"
+    },
+    {
+        "name": "Hoa Đồng Tiền",
+        "desc": "Hoa đồng tiền tượng trưng cho sự sung túc, may mắn và hạnh phúc.",
+        "img": "hoa-dong-tien.jpg"
+    },
+    {
+        "name": "Hoa Giấy",
+        "desc": "Hoa giấy dễ trồng, nhiều màu rực rỡ, rất phù hợp với khí hậu nóng.",
+        "img": "hoa-giay.jpg"
+    },
+    {
+        "name": "Hoa Thanh Tú",
+        "desc": "Hoa nhỏ xinh, màu xanh dịu nhẹ, thích hợp trồng mùa xuân – hè.",
+        "img": "hoa-thanh-tu.jpg"
+    },
+    {
+        "name": "Hoa Đèn Lồng",
+        "desc": "Còn gọi là hồng đăng hoa, dáng giống chiếc đèn lồng rất nổi bật.",
+        "img": "hoa-den-long.jpg"
+    },
+    {
+        "name": "Hoa Cẩm Chướng",
+        "desc": "Hoa cẩm chướng tượng trưng cho tình yêu tinh tế và sự biết ơn.",
+        "img": "hoa-cam-chuong.jpg"
+    },
+    {
+        "name": "Hoa Păng-xê",
+        "desc": "Hoa păng-xê có nhiều mặt hoa đẹp với màu sắc đa dạng.",
+        "img": "hoa-pang-xe.jpg"
+    },
+    {
+        "name": "Hoa Hương Dương",
+        "desc": "Biểu tượng của sự lạc quan và sức sống mạnh mẽ.",
+        "img": "hoa-cuc-dai.jpg"
+    },
+    {
+        "name": "Hoa Cẩm Tú Cầu",
+        "desc": "Hoa cẩm tú cầu có màu sắc nhẹ nhàng và rất nổi bật trong vườn.",
+        "img": "hoa-cam-tu-cau.jpg"
+    },
+    {
+        "name": "Hoa Sen",
+        "desc": "Biểu tượng thanh khiết, cao đẹp, loài hoa đặc trưng của Việt Nam.",
+        "img": "hoa-sen.jpg"
+    },
+    {
+        "name": "Hoa Sử Quân Tử",
+        "desc": "Hoa leo, có mùi thơm dịu, rất đẹp khi nở thành chùm.",
+        "img": "hoa-su-quan-tu.jpg"
+    },
+    {
+        "name": "Hoa Huỳnh Anh",
+        "desc": "Hoa bụi màu vàng rực, nở quanh năm, dễ trồng.",
+        "img": "hoa-huynh-anh.jpg"
+    },
+    {
+        "name": "Hoa Đỗ Quyên",
+        "desc": "Loài hoa nở theo chùm rực rỡ, hợp với vùng khí hậu mát.",
+        "img": "hoa-cuc-la-nho.jpg"
+    },
+    {
+        "name": "Hoa Dừa Cạn",
+        "desc": "Loài hoa bền, chịu nắng tốt, dễ chăm sóc.",
+        "img": "ha-dua-can.jpg"
+    }
+]
